@@ -35,6 +35,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"nanostores": "^0.9.3"
+		"nanostores": "^0.9.4"
 	}
 }
